@@ -5,3 +5,4 @@ open the arduino software and go to Sketch -> Include Library -> Manage Library
 and then surch for Ucglib 
 Install the library 
 After that you can copy and paste the code that I provided on arduino Software and upload it to your arduino. 
+There is a video on YouTube for how to setup the hardwear:  https://youtu.be/AVH8oWZNEe0
